@@ -7,7 +7,3 @@ def test_sum():
 
 def test_sum2():
     assert sum(3, 1) == 4
-    
-    
-def test_sum3():
-    assert sum(4, 1) == 5
