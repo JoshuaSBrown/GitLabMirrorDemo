@@ -6,4 +6,4 @@ def test_sum():
 
 
 def test_sum2():
-    assert sum(4, 3) == 7
+    assert sum(3, 3) == 6
